@@ -1,0 +1,11 @@
+** encodages   - version test:4    - coefDuree : 200 **
+
+1_1 : cc
+2_2 : fhfffffffffffffffffffffffffffffffff
+3_3 : dddddddddddddddddddddddddddd
+4_4 : ssssssssssssssssssssssssssssssssssss
+5_5 : dddddddddddddddddddddddddddd
+6_6 : fffffffffffffffffffffffffffffffff
+7_7 : eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+8_8 : zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+9_9 : rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr

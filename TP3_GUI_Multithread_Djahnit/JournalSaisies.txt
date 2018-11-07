@@ -1,0 +1,11 @@
+** initialisation saisies **
+
+1: cc
+2: fhfffffffffffffffffffffffffffffffff
+3: dddddddddddddddddddddddddddd
+4: ssssssssssssssssssssssssssssssssssss
+5: dddddddddddddddddddddddddddd
+6: fffffffffffffffffffffffffffffffff
+7: eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+8: zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+9: rrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
